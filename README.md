@@ -16,4 +16,4 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css&logoColor=0040ff) 
 
 ### GitHub Stats:
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chernetskiy-ivan&hide=stars,prs,issues,contribs&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chernetskiy-ivan&hide=stars,prs,issues,contribs&theme=radical&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
