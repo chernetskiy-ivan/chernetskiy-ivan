@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 ### Connect with me:
 [![VK](https://img.shields.io/badge/VK-090909?style=for-the-badge&logo=VK)](https://vk.com/chrntskvn)
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/ch_ivan_r/?hl=ru)
-[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://телеграм.онлайн/#/im)
