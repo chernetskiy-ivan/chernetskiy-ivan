@@ -1,5 +1,5 @@
 ### Hi there, I'm [**Ivan**](https://github.com/chernetskiy-ivan) 👋
-Location: *Minsk*,***Belarus***
+### Location: *Minsk*,***Belarus***
 
 <!--
 **chernetskiy-ivan/chernetskiy-ivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
