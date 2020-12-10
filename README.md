@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Java
-- 💬 Ask me about anything **[here](https://vk.com/chrntskvn "Happy to chat")**
+- 💬 Ask me about anything ***[here](https://vk.com/chrntskvn "Happy to chat")***
 
 ### Connect with me:
 [![VK](https://img.shields.io/badge/VK-090909?style=for-the-badge&logo=VK)](https://vk.com/chrntskvn)
