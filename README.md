@@ -17,6 +17,7 @@
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=00ff11)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html&logoColor=00d9ff)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css&logoColor=0040ff)
+![SASS](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass)
 
 ### GitHub Stats:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chernetskiy-ivan&hide=issues,contribs&theme=radical&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
