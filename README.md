@@ -13,7 +13,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![Node.JS](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js)
-![react](https://img.shields.io/badge/-React.js-090909?style=for-the-badge&logo=React)
+![React](https://img.shields.io/badge/-React.js-090909?style=for-the-badge&logo=React)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=00ff11)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html&logoColor=00d9ff)
