@@ -9,7 +9,7 @@
 [![VK](https://img.shields.io/badge/VK-090909?style=for-the-badge&logo=VK)](https://vk.com/chrntskvn)
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/ch_ivan_r/?hl=ru)
 
-### Languages
+### My stack:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![Node.JS](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js)
