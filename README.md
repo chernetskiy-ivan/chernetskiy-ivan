@@ -2,7 +2,7 @@
 ### Location: *Minsk*,***Belarus***
 
 
-- 🌱 I’m currently learning Java, JS, Node.JS
+<!--- - 🌱 I’m currently learning Java, JS, Node.JS --->
 - 💬 Ask me about anything ***[here](https://vk.com/chrntskvn "Happy to chat")***
 
 ### Connect with me:
